@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="24" started-at="2018-12-03T03:16:27Z" finished-at="2018-12-03T03:16:27Z">
+    <groups>
+    </groups>
+    <test name="test12" duration-ms="24" started-at="2018-12-03T03:16:27Z" finished-at="2018-12-03T03:16:27Z">
+      <class name="com.fanbuy.cn.demo.ParameterizedTest1">
+        <test-method status="PASS" signature="ParaTest(java.lang.String)[pri:0, instance:com.fanbuy.cn.demo.ParameterizedTest1@54a097cc]" name="ParaTest" duration-ms="11" started-at="2018-12-03T11:16:27Z" finished-at="2018-12-03T11:16:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Xia2o]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ParaTest -->
+      </class> <!-- com.fanbuy.cn.demo.ParameterizedTest1 -->
+    </test> <!-- test12 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
